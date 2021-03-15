@@ -20,5 +20,4 @@ problems.
 There are nine tables in our database design. 
 Here is the conceptual model of the database which was developed based on the research about users’ habits and requirements towards the
 functionalities of the fridges.
-
-## Queries
+![alt text](IFridge-Database-ER.jpg)
