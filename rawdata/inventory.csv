@@ -1,0 +1,161 @@
+inventory_id,nutrient_name,classification,food_group,count,weight_g_item,purchase_date,edible_days,necessity,fridge_id,nutrient_id
+1,Oil Or Table Fat Nfs,,Fats and Oils,10,8.46,2020/6/3,19,1,5,13805
+2,Bread Wheat Or Cracked Wheat Made From Home Recipe Or Purchased At Bakery,,Baked Foods,9,84.47,2020/6/1,23,0,2,10571
+3,Pie Custard Individual Size Or Tart,,Baked Foods,4,27.62,2020/6/7,25,0,7,10751
+4,Beef Round Eye Of Round Roast Separable Lean And Fat Trimmed To 1/8 Inch Fat All Grades Raw,,Meats,9,92.33,2020/6/6,7,0,7,2012
+5,Margarine Spread Approximately 48% Fat Tub,,Fats and Oils,1,29.04,2020/5/31,5,0,8,6078
+6,Sea Bass Coated Fried,,Fish,4,63.05,2020/6/9,16,1,7,8929
+7,Cookies Chocolate Sandwich With Creme Filling Special Dietary,,Baked Foods,9,72.63,2020/6/5,4,0,8,5222
+8,Danish Pastry Lemon Unenriched,,Baked Foods,2,86.71,2020/6/7,10,0,6,5316
+9,Malt-O-Meal Marshmallow Mateys,,Breakfast Cereals,2,67.12,2020/6/7,17,1,3,6398
+10,Roasted Chicken Thigh,,Meats,10,49.75,2020/6/8,14,0,4,6114
+11,Beef Variety Meats And By-Products Heart Raw,,Meats,5,32.69,2020/6/4,13,1,5,1114
+12,Cracker Barrel Country Fried Shrimp Platter,,Restaurant Foods,9,35.08,2020/6/6,13,1,5,563
+13,Chicken Stewing Giblets Cooked Simmered,,Meats,2,86.58,2020/6/1,22,0,6,6131
+14,Mustard Greens Cooked From Frozen Made With Margarine,,Vegetables,10,2.62,2020/6/8,9,0,7,12409
+15,English Muffins Plain Enriched Without Calcium Propionate(Includes Sourdough),,Baked Foods,6,38.44,2020/5/31,10,0,7,7552
+16,Pork Fresh Loin Country-Style Ribs Separable Lean Only Bone-In Cooked Roasted,,Meats,10,22.9,2020/6/1,12,1,2,796
+17,Egg Substitute Omelet Scrambled Or Fried With Vegetables Ns As To Fat Added In Cooking,,Dairy and Egg Products ,1,27.04,2020/6/7,10,1,5,10241
+18,Pie Plum Two Crust,,Baked Foods,8,50.34,2020/6/9,15,1,4,10732
+19,Potato Hash Brown From Restaurant With Cheese,,Fast Foods,1,67.38,2020/6/2,24,1,4,12146
+20,Eel Cooked Ns As To Cooking Method,,Fish,7,96.7,2020/6/2,19,0,1,8781
+21,Cereal (General Mills 25% Less Sugar Trix),,Breakfast Cereals,6,4.24,2020/6/1,15,1,1,11246
+22,Macaroni Or Noodles With Cheese,,Prepared Meals,7,90.29,2020/6/9,6,0,2,11549
+23,Ham And Rice With Mushroom Sauce,,Meats,7,56.73,2020/6/1,13,0,8,9247
+24,Beef Chuck Under Blade Steak Boneless Separable Lean Only Trimmed To 0 Inch Fat Select Cooked Braised,,Meats,10,90.47,2020/6/4,18,0,6,3301
+25,Spinach From Frozen Creamed,,Vegetables,7,39.92,2020/6/3,6,0,8,12445
+26,Cookies Shortbread Reduced Fat,,Baked Foods,7,94.68,2020/6/2,7,1,7,6576
+27,Rice Brown With Carrots Fat Not Added In Cooking,,Prepared Meals,8,1.29,2020/5/31,9,0,3,11782
+28,Quaker Oatmeal Real Medleys Apple Walnut Dry,,Breakfast Cereals,2,83.12,2020/6/9,27,0,6,4173
+29,Cereal (Kellogg's Cocoa Krispies),,Breakfast Cereals,6,58.01,2020/6/2,19,1,5,11192
+30,Beef Round Top Round Roast Boneless Separable Lean And Fat Trimmed To 0 Inch Fat Select Raw,,Meats,4,32.24,2020/6/4,14,0,5,4233
+31,Frozen Yogurts Vanilla Soft-Serve,,Sweets,4,88.59,2020/6/8,23,0,8,1304
+32,Fish Trout Mixed Species Raw,,Fish,1,55.1,2020/6/6,13,0,2,7642
+33,Beef Loin Top Loin Steak Boneless Lip Off Separable Lean And Fat Trimmed To 0 Inch Fat All Grades Raw,,Meats,3,82.28,2020/5/31,21,1,5,4239
+34,Funnel Cake With Sugar And Fruit,,Baked Foods,9,54.7,2020/6/3,10,0,3,11011
+35,Turkey Dark Meat Meat And Skin Raw,,Meats,3,74.02,2020/6/7,8,1,8,3977
+36,Beef Round Outside Round Bottom Round Steak Separable Lean And Fat Trimmed To 0 Inch Fat Choice Raw,,Meats,10,44.4,2020/6/8,10,1,7,4617
+37,Infant Formula Powder Made With Tap Water (Store Brand),,Baby Foods,5,6.64,2020/5/31,8,0,3,8018
+38,Grits Instant Made With Water Fat Not Added In Cooking,,Breakfast Cereals,9,41.77,2020/6/4,1,1,3,11041
+39,Pheasant Raw Meat And Skin,,Meats,2,39.43,2020/6/3,17,1,6,6961
+40,Pasta Whole Grain With Tomato-Based Sauce Home Recipe,,Prepared Meals,8,38.72,2020/6/4,25,1,2,11616
+41,Pork Fresh Loin Sirloin (Chops Or Roasts) Boneless Separable Lean And Fat Raw,,Meats,9,23.68,2020/6/3,21,0,4,797
+42,Fast Food Biscuit,,Fast Foods,9,89.87,2020/6/8,20,1,5,2791
+43,Water Bottled Non-Carbonated Dannon Fluoride To Go,,Beverages,1,53.91,2020/6/3,26,0,3,6147
+44,Ice Cream Bar Or Stick With Fruit,,Dairy and Egg Products ,10,7.91,2020/6/1,10,1,5,8096
+45,Beef Australian Imported Grass-Fed Loin Top Loin Steak/roast Boneless Separable Lean And Fat Raw,,Meats,5,73.28,2020/6/3,3,0,2,4222
+46,Peas Green Cooked From Frozen Made With Margarine,,Vegetables,9,99.57,2020/6/3,23,0,1,13324
+47,Minestrone Soup Canned Prepared With Water Or Ready-To-Serve,,Soups and Sauces,6,42.81,2020/6/9,5,1,3,13758
+48,Tomato With Corn And Okra Cooked Fat Added In Cooking Ns As To Type Of Fat,,Vegetables,10,94.16,2020/6/6,17,0,1,12746
+49,Acerola Cherries (West Indian Cherry),,Fruits,2,14.95,2020/6/1,13,0,1,4175
+50,Soup Cream Of Potato Canned Prepared With Equal Volume Water,,Soups and Sauces,10,1.57,2020/6/8,28,1,4,5406
+51,Popcorn Microwave Other Flavored,,Snacks,2,64.66,2020/6/4,27,1,2,10896
+52,Apricots Canned Juice Pack With Skin Solids And Liquids,,Fruits,6,84.9,2020/6/1,3,1,7,6426
+53,Soybeans Mature Seeds Sprouted Cooked Stir-Fried With Salt,,Vegetables,4,4.53,2020/6/8,21,1,2,1859
+54,Pizza With Beans And Vegetables Thick Crust,,Baked Foods,9,73.54,2020/5/31,16,0,1,11392
+55,Cream Of Wheat 2 1/2 Minute Cook Time Cooked With Water Stove-Top Without Salt,,Breakfast Cereals,7,44.28,2020/6/2,18,1,5,5497
+56,Syrups Corn High-Fructose,,Sweets,10,70.15,2020/6/3,18,0,8,2148
+57,Dominos 14 Inch Pepperoni Pizza Ultimate Deep Dish Crust,,Fast Foods,5,18.44,2020/6/8,18,0,3,4534
+58,Cake Pound Puerto Rican Style,,Baked Foods,2,11.59,2020/6/6,26,1,3,10676
+59,Pectin Liquid,,Sweets,2,15.82,2020/6/2,14,0,2,171
+60,Cantaloupe Melons,,Fruits,5,23.59,2020/6/8,5,0,5,1581
+61,Rice Brown With Carrots Dark Green Vegetables And Tomatoes And/or Tomato-Based Sauce Fat Not Added In Cooking,,Prepared Meals,9,28.55,2020/6/3,7,1,6,11804
+62,Pork Cured Ham Steak Boneless Extra Lean Unheated,,Meats,3,74.73,2020/5/31,10,1,8,363
+63,Beef Brisket Flat Half Separable Lean Only Trimmed To 1/8 Inch Fat All Grades Cooked Braised,,Meats,3,61.9,2020/6/7,2,1,8,6536
+64,Lamb Domestic Composite Of Trimmed Retail Cuts Separable Lean And Fat Trimmed To 1/8 Inch Fat Choice Cooked,,Meats,1,9.81,2020/6/3,25,0,4,5035
+65,Bacon Cheeseburger 1 Medium Patty Plain On White Bun,,Fast Foods,9,53.1,2020/6/4,28,0,3,9690
+66,Chewing Gum,,Sweets,6,80.09,2020/6/8,15,0,5,1260
+67,Beans Great Northern Mature Seeds Cooked Boiled With Salt,,Beans and Lentils,3,54.41,2020/6/7,22,1,2,6279
+68,Beef Chuck Mock Tender Steak Boneless Separable Lean Only Trimmed To 0 Inch Fat Choice Cooked Braised,,Meats,10,57.59,2020/6/8,20,1,3,3690
+69,Chicken Broilers Or Fryers Back Meat Only Raw,,Meats,6,41.6,2020/6/2,21,1,4,3562
+70,Gum Drops No Sugar Or Low Calorie (Sorbitol),,Sweets,9,9.62,2020/6/4,16,0,3,1550
+71,Beef And Rice With Tomato-Based Sauce,,Meats,8,77.13,2020/6/8,17,1,7,9229
+72,Pineapple Candy Puerto Rican Style,,Sweets,8,67.9,2020/6/1,24,1,1,13923
+73,Borage Cooked Boiled Drained With Salt,,Vegetables,2,32.22,2020/6/4,3,0,8,998
+74,Beef Round Eye Of Round Roast Separable Lean And Fat Trimmed To 1/8 Inch Fat Choice Raw,,Meats,5,92.85,2020/6/2,13,1,7,1190
+75,Snacks Crisped Rice Bar Chocolate Chip,,Snacks,8,80.43,2020/6/1,12,0,6,440
+76,Turnip Greens Cooked From Fresh Fat Added In Cooking Ns As To Type Of Fat,,Vegetables,4,38.56,2020/6/5,11,0,3,12466
+77,Corn Cooked From Canned Ns As To Color Ns As To Fat Added In Cooking,,Vegetables,9,31.87,2020/6/8,11,0,3,13092
+78,Peas And Carrots Cooked Ns As To Form Made With Margarine,,Vegetables,7,7,2020/5/31,5,1,5,12619
+79,Divinity Prepared-From-Recipe,,Sweets,4,51.25,2020/6/3,11,1,5,1335
+80,Kfc Biscuit,,Fast Foods,5,38.52,2020/6/1,28,1,6,2828
+81,Alfredo Sauce With Poultry And Added Vegetables,,Soups and Sauces,5,74.91,2020/6/7,12,1,1,8255
+82,Quaker Quaker Oat Life Plain,,Breakfast Cereals,4,69.13,2020/6/8,25,1,3,6380
+83,Spinach Cooked From Frozen Made With Oil,,Vegetables,3,91.13,2020/6/8,14,1,4,12437
+84,Cream Of Wheat Regular Or Quick Made With Water Ns As To Fat Added In Cooking,,Breakfast Cereals,3,84.12,2020/6/7,2,0,3,11147
+85,Pasta With Tomato-Based Sauce And Meat Ready-To-Heat,,Prepared Meals,2,98.56,2020/6/5,2,1,5,11575
+86,Chicken Or Turkey Salad Made With Any Type Of Fat Free Dressing,,Meats,3,6.43,2020/6/9,21,1,7,9587
+87,Honey Roll Sausage Beef,,Meats,7,17.86,2020/6/6,27,1,1,5432
+88,Pancakes Plain Dry Mix Incomplete Prepared,,Baked Foods,2,84.9,2020/6/9,3,1,2,7497
+89,Dried Coriander,,Spices and Herbs,7,59.97,2020/6/7,21,1,1,3410
+90,Braised Pork Loin,,Meats,9,67.52,2020/6/4,3,0,3,720
+91,Italian Wedding Soup,,Soups and Sauces,4,73.02,2020/6/1,23,1,1,9985
+92,Rice Brown With Beans,,Prepared Meals,10,33.33,2020/6/1,9,0,7,11773
+93,Lasagna With Meat And Spinach,,Prepared Meals,4,81.7,2020/6/4,15,1,3,11492
+94,Infant Formula Ready-To-Feed With Iron (Enfamil Premature 20 Cal),,Baby Foods,6,80.94,2020/6/6,12,1,5,8069
+95,Noodles With Vegetables In Tomato-Based Sauce Diet Frozen Meal,,Prepared Meals,4,93.71,2020/6/5,26,0,8,11886
+96,Bologna Meat And Poultry,,Meats,9,98.41,2020/6/9,10,0,7,4126
+97,Oil Industrial Cottonseed Fully Hydrogenated,,Fats and Oils,3,18.35,2020/5/31,2,0,5,3930
+98,Cabbage Red Cooked Made With Margarine,,Vegetables,7,25.24,2020/6/6,17,1,2,13038
+99,Grits Instant Made With Milk Fat Not Added In Cooking,,Breakfast Cereals,7,29.87,2020/6/5,16,0,3,11045
+100,Perch Baked Or Broiled Made With Oil,,Fish,7,36.47,2020/6/7,9,0,1,8859
+101,Peas And Corn Cooked Fat Not Added In Cooking,,Vegetables,3,66.47,2020/6/6,27,1,3,13534
+102,Pork Fresh Variety Meats And By-Products Mechanically Separated Raw,,Meats,9,75.58,2020/6/7,22,1,6,761
+103,Potato Soup Cream Of Prepared With Milk,,Soups and Sauces,6,52.26,2020/6/5,14,0,7,12219
+104,Blue Crab,,Fish,1,1.42,2020/5/31,4,1,7,6694
+105,Crackers Whole-Wheat Reduced Fat,,Baked Foods,10,46.85,2020/5/31,5,1,1,422
+106,Cooked Sea Bass,,Fish,6,52.24,2020/6/8,8,0,3,6183
+107,McDonalds Quarter Pounder,,Fast Foods,5,20.47,2020/6/4,25,0,5,2810
+108,Turnip Greens With Roots Cooked From Fresh Fat Not Added In Cooking,,Vegetables,7,29.67,2020/6/7,22,1,7,12488
+109,Infant Formula Mead Johnson Enfamil Lipil With Iron Ready-To-Feed With Ara And Dha,,Baby Foods,1,13.27,2020/6/8,10,1,5,4793
+110,Onions Pearl Cooked From Canned,,Vegetables,8,14.54,2020/6/1,2,0,2,13266
+111,Applesauce Baby Food Ns As To Strained Or Junior,,Baby Foods,3,75.21,2020/6/6,9,0,8,12043
+112,Soup Beef Barley Ready To Serve,,Soups and Sauces,4,33.66,2020/6/5,26,1,4,6562
+113,Sweet And Sour Shrimp,,Prepared Meals,8,95.74,2020/6/3,13,0,6,9186
+114,Nestle Butterfinger Crisp,,Sweets,2,74.02,2020/6/4,10,0,8,2767
+115,Potato Salad Made With Light Italian Dressing,,Prepared Meals,5,91.64,2020/5/31,3,0,6,12211
+116,Orange-Flavor Drink Breakfast Type Powder,,Beverages,10,11.07,2020/6/2,2,0,2,5724
+117,Veal Loin Separable Lean And Fat Cooked Roasted,,Meats,5,73.56,2020/6/4,26,0,1,6314
+118,Soy Sauce,,Beans and Lentils,2,19.15,2020/6/6,30,0,7,6766
+119,Soupy Rice Mixture With Chicken And Potatoes Puerto Rican Style,,Soups and Sauces,2,89.68,2020/6/1,10,1,1,11713
+120,Pasta Homemade Made With Egg Cooked,,Grains and Pasta,8,19.98,2020/6/1,22,0,7,1390
+121,Pork Fresh Variety Meats And By-Products Stomach Cooked Simmered,,Meats,7,69.89,2020/6/9,26,0,5,812
+122,Beef Round Bottom Round Steak Separable Lean Only Trimmed To 0 Inch Fat All Grades Cooked Braised,,Meats,4,78.72,2020/6/3,30,1,6,3117
+123,Game Meat Elk Ground Raw,,Meats,9,39.14,2020/6/6,15,0,2,6914
+124,Sweetener Herbal Extract Powder From Stevia Leaf,,Sweets,10,88.85,2020/6/3,29,1,1,3168
+125,Dry Dessert Wine,,Beverages,5,7.63,2020/6/1,8,0,6,7601
+126,Veal Chop Broiled Lean And Fat Eaten,,Meats,9,70.66,2020/6/8,9,0,4,8439
+127,Crepe Filled With Meat Poultry Or Seafood No Sauce,,Prepared Meals,6,1.43,2020/6/1,14,1,8,11445
+128,Pork Fresh Shoulder (Boston Butt) Blade (Steaks) Separable Lean Only Raw,,Meats,5,8.02,2020/6/9,4,1,5,749
+129,Stew Steamed Corn (Navajo),,American Indian,6,74.56,2020/6/9,12,0,5,126
+130,Milk Shakes Thick Vanilla,,Dairy and Egg Products,9,33.83,2020/6/3,20,1,5,3373
+131,Pie Rhubarb One Crust,,Baked Foods,6,97.25,2020/6/6,11,0,7,10739
+132,Dandelion Greens Cooked Made With Butter,,Vegetables,5,45.13,2020/6/2,5,0,2,12318
+133,Beef Brisket Flat Half Separable Lean And Fat Trimmed To 0 Inch Fat Select Cooked Braised,,Meats,9,46.33,2020/6/4,27,1,3,2044
+134,Beef Composite Of Trimmed Retail Cuts Separable Lean And Fat Trimmed To 0 Inch Fat Choice Cooked,,Meats,8,9.41,2020/6/7,1,1,2,2695
+135,Beef Rib Eye Small End (Ribs 10-12) Separable Lean And Fat Trimmed To 0 Inch Fat Choice Cooked Broiled,,Meats,6,88.06,2020/6/3,25,1,7,1925
+136,Artichoke Cooked From Canned Ns As To Fat Added In Cooking,,Vegetables,10,10.35,2020/6/6,22,1,7,12803
+137,Popeyes Spicy Chicken Strips Analyzed 2006,,Fast Foods,1,48.47,2020/6/7,24,1,7,2827
+138,Strawberry Milk Reduced Fat,,Dairy and Egg Products ,4,20.12,2020/6/5,19,1,4,7900
+139,Peas Green Cooked From Fresh Made With Margarine,,Vegetables,10,12.56,2020/6/3,6,0,8,13321
+140,Mortadella Beef Pork,,Meats,1,25.07,2020/6/5,30,0,4,7062
+141,Milk Reduced Fat Fluid 2% Milkfat Protein Fortified With Added Vitamin A And Vitamin D,,Dairy and Egg Products,9,79.47,2020/6/4,8,1,3,3360
+142,Mars Snackfood Us Snickers Almond Bar,,Sweets,9,70.81,2020/6/5,24,1,7,1307
+143,Pork Fresh Variety Meats And By-Products Ears Frozen Raw,,Meats,10,90.77,2020/6/2,18,0,1,346
+144,Ostrich Fan Raw,,Meats,9,39.82,2020/6/2,3,1,8,6972
+145,Wonton Fried Filled With Meat Poultry Or Seafood,,Prepared Meals,4,58.99,2020/6/3,2,0,2,11424
+146,Chicken Drumstick Baked Or Broiled Skin Eaten From Fast Food / Restaurant,,Meats,4,17.2,2020/6/7,22,1,8,8547
+147,Beef Chuck Arm Pot Roast Separable Lean Only Trimmed To 1/8 Inch Fat All Grades Raw,,Meats,6,4.4,2020/6/6,20,0,5,6540
+148,Cassava Pasteles Puerto Rican Style,,Meats,4,87.39,2020/6/2,21,1,6,13787
+149,Beef Loin Tenderloin Roast Boneless Separable Lean And Fat Trimmed To 0 Inch Fat All Grades Raw,,Meats,6,67.57,2020/6/1,13,1,8,6476
+150,Apple Cider Vinegar,,Spices and Herbs,10,64.54,2020/5/31,19,0,2,5958
+151,Asparagus Cooked From Fresh Fat Added In Cooking Ns As To Type Of Fat,,Vegetables,8,98.92,2020/6/6,17,1,1,12834
+152,Beans String Yellow Cooked From Frozen Made With Margarine,,Vegetables,5,83.94,2020/6/3,4,0,5,12949
+153,Peas Ns As To Form Creamed,,Vegetables,8,47.68,2020/6/3,24,0,5,13661
+154,Cooked Eastern Oysters (Farmed),,Fish,2,65.48,2020/6/8,28,1,1,7662
+155,Cooked Celeriac,,Vegetables,4,90.89,2020/6/3,7,0,5,2476
+156,Cooked Kale,,Vegetables,3,5.87,2020/6/3,10,0,3,1727
+157,Pork Cured Ham Whole Separable Lean And Fat Unheated,,Meats,6,18.18,2020/6/6,25,1,1,364
+158,Peppers Red Cooked Made With Margarine,,Vegetables,2,92.6,2020/6/5,1,1,8,13354
+159,Pork Fresh Loin Top Loin (Chops) Boneless Separable Lean And Fat Cooked Pan-Fried,,Meats,2,82.8,2020/5/31,12,0,5,376
+160,Turkey Ham Sliced Extra Lean Prepackaged Or Deli-Sliced,,Meats,8,95.06,2020/6/5,11,0,7,581
